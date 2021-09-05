@@ -1,0 +1,1244 @@
+@media only screen and (max-width: 1180px) {
+
+  .container {
+    max-width: 920px;
+  }
+
+  .slider_home_info_title, .slider_about_info_title {
+    font-size: 24px;
+  }
+
+  .slider_home_image_picture img,
+  .slider_about_image_picture img {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+  }
+
+  .slider_home_info_wrap, .slider_about_info_wrap {
+    padding: 32px; 
+  }
+
+  .section {
+    padding-bottom: 60px;
+  }
+  
+  .shopSliderItem__logo img {
+    max-width: 90%;
+  }
+
+  .shopSliderItem__container {
+    height: 140px;
+  }
+
+  .promoSliderItem__title,
+  .filmSliderItem__title {
+    font-size: 12px;
+  }
+
+  .promoSliderItem__category {
+    font-size: 9px;
+  }
+
+  .slider_home_info_text, .slider_about_info_text {
+    font-size: 14px;
+  }
+
+  .btn_arrow,
+  .btn_violet {
+    font-size: 14px;
+  }
+
+  .section_slider_about {
+    padding-bottom: 0;
+  }
+
+  .filter_symbol_btn {
+    letter-spacing: 3px;
+  }
+
+  .shop-main-col {
+    flex: 0 0 68%;
+    max-width: 68%;
+    padding-right: 50px;
+  }
+
+  .shop-sidebar-col {
+    flex: 0 0 32%;
+    max-width: 32%;
+  }
+
+  .title_h1 {
+    font-size: 45px;
+  }
+
+  .article-main-col {
+    padding-right: 75px;
+  }
+
+  .title_h2 {
+    font-size: 35px;
+  }
+
+  .title_h3 {
+    font-size: 30px;
+  }
+
+  .container-search-headered {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .tenets-col-1 {
+    padding-right: 30px;
+  }
+  .aboutNumb-col {
+    flex: 0 0 200px;
+    max-width: 200px;
+  }
+
+  .aboutNumb__main {
+    font-size: 24px;
+  }
+
+  .btnTranspherTab {
+    white-space: nowrap;
+  }
+
+  .page_error_basket_logo {
+    right: -24%;
+  }
+
+  .shopSliderItem__soon {
+    font-size: 10px;
+  }
+
+  .eventItem__info {
+    height: 180px;
+  }
+  
+  .cinema_header_sidebar_col {
+    padding-left: 60px;
+  }
+
+  .home_headered_block_title {
+    font-size: 16px;
+  }
+
+  .home_headered_block_description {
+    font-size: 14px;
+  }
+
+}
+
+@media only screen and (max-width: 940px) {
+
+  .container {
+    max-width: 740px;
+  }
+
+  .header_info_link {
+    font-size: 12px;
+  }
+
+  .header_info_mode_current {
+    font-size: 12px;
+  }
+
+  .header_logo img {
+    width: 120px;
+  }
+
+  .header_info_item {
+    margin-right: 12px;
+  }
+
+  .header_social_link {
+    margin-right: 8px;
+  }
+
+  .header_menu_list_item {
+    margin-right: 12px;
+  }
+
+  .header_menu_list_item a {
+    font-size: 12px;
+  }
+
+  .slider_home_right,
+  .slider_about_left {
+    flex: 0 0 100%;
+    max-width: 100%;
+    order: 1;
+  }
+
+  .slider_home_left,
+  .slider_about_right {
+    flex: 0 0 100%;
+    order: 2;
+    max-width: 100%;
+  }
+
+  .slider_home_info_wrap,
+  .slider_about_info_wrap {
+    padding: 56px 16px 19px;
+  }
+
+  .slider_home_nav,
+  .slider_about_nav {
+    display: none;
+  }
+
+  .slider_home_info_text, 
+  .slider_about_info_text {
+    font-size: 16px;
+  }
+
+  .slider_home_info_title,
+  .slider_about_info_title {
+    margin-bottom: 8px;
+    font-size: 18px;
+  }
+
+  .section_title {
+    margin-bottom: 16px;
+    font-size: 18px;
+    font-weight: 800;
+  }
+
+  .slider_about_info_text br {
+    display: none;
+  }
+
+  .btn_arrow, .btn_violet {
+    font-size: 16px;
+  }
+
+  .section_subscribe {
+    padding: 32px 0 32px;
+  }
+
+
+  .shop-catalog-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+
+  .shop-main-col {
+    padding-right: 16px;
+  }
+
+  .shop_article_title {
+    font-size: 26px;
+    margin-bottom: 30px;
+  }
+
+
+
+  .article-main-col {
+    padding-right: 25px;
+  }
+
+  .aboutSliderWrap {
+    margin-bottom: 24px;
+  }
+  .aboutNumb-col {
+    flex: 0 0 150px;
+    max-width: 150px;
+  }
+
+  .aboutNumb__main {
+    font-size: 18px;
+  }
+
+  .tenetsWrap {;
+    padding: 40px 24px;
+  }
+
+  .page_error_container {
+    width: 610px; 
+  }
+
+
+  .page_error_title {
+    font-size: 70px;
+  }
+
+  .page_error_logo {
+    margin-bottom: 160px;
+  }
+
+  .page_error_basket_logo {
+    width: 130px;
+    bottom: 140px;
+    right: -20%;
+  }
+
+  .eventItem__info {
+    height: 160px;
+  }
+
+  .cinema_header_sidebar_col {
+    padding-left: 16px;
+  }
+
+  .home_headered_block_title {
+    font-size: 14px;
+  }
+
+  .home_headered_block_description {
+    font-size: 12px;
+  }
+
+}
+
+
+@media only screen and (max-width: 760px) {
+
+  .schemeFloors {
+    margin-left: -4000px;
+    margin-right: -4000px;
+    min-height: 600px;
+  }
+
+  .schemePopup {
+    left: 50% !important;
+    transform: translate(-50%, -50%);
+    top: 50% !important;
+  }
+
+  .schemePopup:before {display: none}
+
+  .body_padding {
+    padding-bottom: 357px;
+  }
+
+  .container {
+    max-width: 560px;
+  }
+
+  .scroll_up {
+    display: none;
+  }
+
+  .header {
+    display: none;
+  }
+
+  .shopSliderItem {
+    width: 180px;
+  }
+
+  .shopSliderItem__container {
+    height: 180px;
+  }
+
+  .promoSliderItem,
+  .filmSliderItem  {
+    width: 284px;
+  }
+
+  .slider_about_image_picture img,
+  .slider_home_image_picture img {
+    width: 100%;
+  }
+
+
+  .footer_col_1 {
+    display: none;
+  }
+
+  .footer_col_2,
+  .footer_col_3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+  
+  .footer_copyright, .footer_developer_link {
+    text-align: center;
+  }
+
+  .footer_social {
+    padding-bottom: 25px;
+  }
+
+  .footer_col_mobile {
+    display: block;
+    margin-bottom: 24px;
+  }
+
+  .footer_copyright {
+    margin-bottom: 15px;
+  }
+
+  .footer .container {
+    padding: 24px 0;
+  }
+
+  .menuPopup {
+    padding-bottom: 48px;
+  }
+  .menuBottom {
+    display: block;
+  }
+  .shop-catalog-col {
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+  }
+
+  .filter_symbols {
+    display: none;
+  }
+
+  .shopsFilter__bottom .col-8,
+  .shopsFilter__bottom .col-4,
+  .shopsFilter__inputs .col-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 8px;
+  }
+
+  .reset_filter {
+    text-align: center;
+    margin-top: 12px;
+  }
+
+  .shopsFilter__inputs {
+    margin-bottom: 0;
+  }
+
+  .titlePage {
+    font-size: 24px;
+  }
+
+  .filter_symbols_row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .filter_symbol_btn {
+    font-size: 22px;
+    line-height: 1.45;
+    flex: 14.285%;
+    margin-bottom: 24px;
+    max-width: 14.285%;
+  }
+  
+  .filter_symbols_mobile {
+    display: block;
+  }
+
+  .shop-main-col,
+  .shop-sidebar-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .shop-sidebar-col {
+    order: 1;
+    margin-bottom: 32px;
+  }
+
+  .shop-main-col {
+    order: 2;
+  }
+
+  .shop_info_logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 148px;
+    height: 148px;
+    margin-bottom: 8px;
+  }
+
+  .shop_info_name {
+    text-align: center;
+  }
+
+  .shop_article_title {
+    font-size: 18px;
+    margin-bottom: 24px;
+  }
+
+  .shop_article_section {
+    margin-bottom: 32px;
+  }
+
+
+  .article-main-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-right: 0;
+    order: 2;
+  }
+
+  .article-sidebar-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+    order: 1;
+  }
+
+  .article_sidebar_image_mobile {
+    display: block;
+    margin-bottom: 24px;
+  }
+
+  .article_sidebar_image_mobile img {
+    width: 100%;
+    display: block;
+  }
+
+  .article_image_main {
+    display: none;
+  }
+
+  .article_info_logo {
+    width: 148px;
+    height: 148px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+  }
+
+  .article_info_title {
+    text-align: center;
+  }
+
+  .article_info_description {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  .title_h1 {
+    font-size: 35px;
+  }
+
+  .title_h2 {
+    font-size: 28px;
+  }
+
+  .title_h3 {
+    font-size: 22px;
+  }
+
+  .title_h4 {
+    font-size: 18px;
+  }
+
+  .container-search-tab {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+  }
+
+  .searchTabs {
+    padding-left: 15px;
+    white-space: nowrap;
+    overflow-x: scroll;
+    width: 100%;
+    justify-content: start;
+  }
+
+  .searchHeadered {
+    padding-top: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .container-760 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .aboutNumb-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .aboutNumbItem {
+    display: flex;
+    border-bottom: 1px solid rgba(118,120,125,0.3);
+    padding: 8px 0;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .aboutNumb-col:last-child .aboutNumbItem {
+    border-bottom: none;
+  }
+
+  .aboutNumb__main {
+    order: 2;
+  }
+
+  .aboutNumb__text {
+    order: 1;
+  }
+
+  .tenets-col-1,
+  .tenets-col-2 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .tenets_btns {
+    display: none;
+  }
+
+  .tenets_btns_mobile {
+    display: block;
+  }
+
+  .transpherHeader__row {
+    flex-wrap: wrap;
+  }
+
+  .transpherAddress {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+
+  .map_route {
+    height: 360px;
+  }
+
+  .transpherTabs {
+    justify-content: flex-start;
+    overflow-x: scroll;
+    margin-left: -16px;
+    margin-right: -16px;
+    margin-bottom: 14px;
+  }
+
+  .transpherHeader__row {
+    margin-bottom: 16px;
+  }
+
+  .page_error_container {
+    width: 550px;
+  }
+
+  .schemeSearch {
+    width: 100%;
+    top: 0;
+  }
+
+  .schemeContainer {
+    min-height: calc(100vh - 48px);
+  }
+
+  .schemeNavigation {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: auto;
+    bottom: 0;
+  }
+
+ .schemeScaleButtons {
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: 48px;
+  }
+
+  .shcemeScale__button {
+    width: 40px;
+    height: 40px;
+  }
+
+  .shcemeScale__button:first-child {
+    border-left: 1px solid #18191c !important;
+  }
+
+  .schemeFloorsButtons {
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .shcemeFloor__button:first-child, .shcemeScale__button:first-child {
+    border-top: 1px solid #18191C;
+    border-left: none;
+  }
+
+  .shcemeFloor__button, .shcemeScale__button {
+    border-width: 1px;
+    border-right: none;
+    flex: 0 0 25%;
+  }
+
+
+  .shcemeFloor__button:last-child, .shcemeScale__button:last-child {
+    border-bottom: 1px solid #18191C;
+  }
+
+  .schemeFloors {
+    /*transform: scale(8) !important;*/
+  }
+
+  .shopSliderItem__soon {
+    font-size: 11px;
+  }
+
+  .shop_social {
+    justify-content: center;
+  }
+
+  .shop_img {
+    display: none;
+  }
+
+  .shop_img_mobile {
+    display: block;
+    margin-left: -24px;
+    margin-right: -24px;
+  }
+
+  #schemeFloor__btn_0 {
+    order: 1;
+    border-left: none;
+  }
+
+  #schemeFloor__btn_3 {
+    order: 4;
+    border-left: 1px solid #18191c;
+  }
+
+  #schemeFloor__btn_2 {
+    order: 3;
+  }
+
+  #schemeFloor__btn_1 {
+    order: 2;
+  }
+
+  .cinema_header_main_col {
+    flex: 0 0 100%;
+    max-width: 100%;
+    order: 2;
+  }
+
+  .cinema_header_sidebar_col {
+    flex: 0 0 100%;
+    max-width: 100%;
+    order: 1;
+  }
+
+  .cinema_header_sidebar_logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 148px;
+    height: 148px;
+    margin-bottom: 8px;
+  }
+
+  .cinema_header_sidebar_title {
+    text-align: center;
+  }
+
+  .cinema_header_image {
+    display: none;
+  }
+
+  .cinema_header_image_mobile {
+    display: block;
+  }
+
+  .cinema_header_description {
+    display: none;
+  }
+
+  .home_headered_slider_col_1,
+  .home_headered_slider_col_2 {
+    display: none;
+  }
+
+  .home_headered_slider_col_mobile {
+    display: block;
+  }
+
+  .cinemaItem_col_1,
+  .cinemaItem_col_2 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .cinemaItemPoster,
+  .cinemaItem_trailer {
+    text-align: left;
+    max-width: 200px;
+  }
+
+  .cinemaItem_trailer {
+    padding-top: 14px;
+  }
+  
+  .cinemaItem_col_1 {
+    padding-bottom: 24px;
+  }
+
+  .cinemaItem_col_2 {
+    padding-left: 0;
+  }
+
+  .cinemaItem_time {
+    display: none;
+  }
+
+  .cinemaItem__tickets__all_mobile {
+    display: block;
+    margin-top: 8px;
+  }
+
+  .cinemaItem__tickets__all_mobile a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #4628D2;
+    text-decoration: none;
+  }
+
+  .cinemaItem {
+    padding: 30px 0 24px;
+  }
+  
+  .cinemaItem_time_mobile {
+    display: block;
+  }
+
+  .cinemaItem_genre {
+    margin-bottom: 4px;
+  }
+
+  .cinemaItem_text_dropdown {
+    border-top: 1px solid #E3E7EC;
+    border-bottom: 1px solid #E3E7EC;
+    padding: 8px 0;
+    display: flex;
+    font-size: 16px;
+    color: #18191C;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    
+  }
+
+  .cinemaItem_text_dropdown img {
+    margin-right: 16px;
+  }
+
+  .cinemaItem_text_dropdown_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    background-image: url(../img/add_24px.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .cinemaItem_text {
+    display: none;
+  }
+
+  .cinemaItem.active .cinemaItem_text {
+    display: block;
+  }
+
+  .cinemaTicket { 
+    display: none;
+    width: 104px;
+  }
+
+  .cinemaTicket:nth-child(1),
+  .cinemaTicket:nth-child(2),
+  .cinemaTicket:nth-child(3),
+  .cinemaTicket:nth-child(4),
+  .cinemaTicket:nth-child(5),
+  .cinemaTicket:nth-child(6) {
+    display: inline-block;
+  }
+
+  .cinemaItem__ticketsList.show_tickets .cinemaTicket {
+    display: inline-block;
+  }
+  
+  .cinemaItem.active .cinemaItem_text_dropdown_icon {
+    background-image: url(../img/remove_24px.svg);
+  }
+
+  .cinemaItem__ticketsList {
+    padding-top: 8px;
+  }
+
+  .cinemaListHeadered {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .cinemaListHeadered .title_h3 {
+    margin-bottom: 8px;
+  }
+
+}
+
+
+@media only screen and (max-width: 580px) {
+
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .subscribe_title {
+    text-align: left;
+  }
+
+  .sibscribeForm__row {
+    flex-wrap: wrap;
+  }
+
+  .subscribeInput, .subscribeBtn {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .section.section_home_slider,
+  .section.section_slider_about {
+    margin-left: -16px;
+    margin-right: -16px;
+  }
+  
+  .section_headered_link {
+    display: none;
+  }
+
+  .btn_mobile_wrap {
+    display: block;
+  }
+
+  .section {
+    padding-bottom: 40px;
+  }
+
+  .promo {
+    margin-bottom: 24px;
+  }
+
+  .filmSliderItem__info {
+    padding-bottom: 0;
+  }
+
+  .section_slider_about {
+    padding-bottom: 0;
+  }
+
+  .shops,
+  .promo,
+  .films {
+    margin-left: 0;
+    margin-right: -16px;
+  }
+
+  .subscribeInput {
+    margin-bottom: 8px;
+  }
+
+  .subscribeForm__condition {
+    text-align: left;
+  }
+
+  .subscribeForm__condition br {
+    display: none;
+  }
+
+  .subscribeForm {
+    margin-bottom: 16px;
+  }
+
+  .shop-catalog-col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+
+  .title_h1 {
+    font-size: 24px;
+  }
+
+  .article_sidebar_image_mobile {
+    margin-left: -16px;
+    margin-right: -16px;
+  }
+
+  .title_h2 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+
+  .content_headered {
+    margin-bottom: 24px;
+  }
+
+  .title_h3 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+
+  .article_video iframe {
+    height: 250px;
+  }
+  .table_col {
+    min-width: 200px;
+  }
+
+  .table {
+    overflow-x: scroll;
+  }
+
+  .aboutText__main {
+    margin-bottom: 16px;
+  }
+
+  .aboutText {
+    margin-bottom: 24px;
+  }
+
+  .subscribe_title_bold{ 
+    display: none;
+  }
+
+  .subscribe_title_description {
+    display: none;
+  }
+
+  .subscribe_title_mobile {
+    display: block;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+
+  .section_subscribe {
+    padding-bottom: 24px;
+  }
+
+  .tenets_btns_mobile .btn_violet,
+  .tenets_btns_mobile .btn_violet_border {
+    display: block;
+    text-align: center;
+    height: 40px;
+    font-size: 14px;
+  }
+
+  .tenets_btns_mobile .btn_violet {
+    margin-bottom: 8px;
+  }
+
+  .tenetsContactsBlock {
+    margin-bottom: 24px;
+  }
+
+  .tenetsWrap {
+    padding: 24px 16px;
+  }
+
+  .section_tenets {
+    padding-bottom: 0;
+  }
+
+  .page_error_col_2 {
+    background-color: #fff;
+    border: none;
+    padding: 0;
+    order: 1;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .page_error_col_1 {
+    order: 2;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .page_error_container {
+    width: 210px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .page_error_logo {
+    margin-bottom: 16px;
+    text-align: center;
+    padding: 0 10px;
+  }
+
+  .page_error_btn_wrap {
+    display: none;
+  }
+
+  .page_error_title {
+    font-size: 50px;
+  }
+
+  .page_error_col_1 {
+    text-align: center;
+    height: 210px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 100;
+  }
+
+  .page_error_basket_logo {
+    width: 105px;
+    bottom: 100px;
+    z-index: -1;
+    right: -9%;
+  }
+
+  .page_error_btn_wrap_mobile {
+    display: block;
+    width: 100%;
+  }
+
+  .page_error {
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 48px;
+  }
+
+  .page_error_text {
+    padding: 0 24px;
+    margin-top: 20px;
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .page_error_text br {
+    display: none;
+  }
+
+  .slider_home_info_button > a {
+    width: 100%;
+    text-align: center;
+  }
+
+  .page_error_basket_logo {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  .rental_container {
+    padding: 0 16px;
+  }
+
+}
+
+@media only screen and (max-width: 530px) {
+  .event-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .searchItem-image-col {
+    display: none;
+  }
+
+  .searchItem-main-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .searchItem {
+    padding: 32px 0;
+  }
+
+  .tenetsWrap {
+    margin-left: -16px;
+    margin-right: -16px;
+  }
+
+  .title_h4 {
+    letter-spacing: 1px;
+  }
+
+  .aboutSliderItem__image img {
+    height: 234px;
+    width: auto;
+    object-fit: contain;
+  }
+
+  .aboutNumb__text {
+    max-width: 140px;
+    text-align: left;
+  }
+
+  .eventItem__info {
+    padding: 8px 16px 12px;
+    height: auto;
+  }
+
+}
+
+@media only screen and (max-width: 420px) {
+
+  .menu {
+    width: 100%;
+  }
+
+  .shopCatalogItem .shopSliderItem__container {
+    height: 148px;
+  }
+
+  .cinemaTicket {
+    display: none;
+    width: 88px;
+  }
+
+  .ticket_3d:after {
+    font-size: 8px;
+    width: 18px;
+    height: 18px;
+  }
+
+}
+
+@media only screen and (max-width: 370px) {
+
+  .filter_symbols_popup {
+    padding: 24px 16px;
+  }
+  .filter_symbol_btn {
+    font-size: 17px; 
+    margin-bottom: 16px;
+  }
+
+  .article_video iframe {
+    height: 190px;
+  }
+
+  .shopSliderItem__soon {
+    font-size: 10px;
+  }
+
+  
+  .body_padding {
+    padding-bottom: 380px;
+  }
+
+}
